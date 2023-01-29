@@ -8,11 +8,13 @@ namespace ControleEstoque.web.Controllers
 {
     public class RelatorioController : Controller
     {
-        // GET: Relatorio
+        [Authorize]
         public ActionResult PosicaoEstoque()
         {
             return View();
         }
+
+        [Authorize]
         public ActionResult Ressuprimento()
         {
             return View();

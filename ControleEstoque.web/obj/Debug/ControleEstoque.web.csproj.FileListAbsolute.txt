@@ -56,7 +56,6 @@ C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\
 C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\ControleEstoque.web\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\ControleEstoque.web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\ControleEstoque.web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\ControleEstoque.web\obj\Debug\ControleEstoque.web.csproj.AssemblyReference.cache
 C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\ControleEstoque.web\obj\Debug\ControleEstoque.web.csproj.CoreCompileInputs.cache
 C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\ControleEstoque.web\obj\Debug\ControleEstoque.web.csproj.CopyComplete
 C:\Users\daniel.souza\Desktop\Estudos\ControleEstoqueAspNet MVC\ControleEstoque\ControleEstoque.web\obj\Debug\ControleEstoque.web.dll
